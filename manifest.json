@@ -1,7 +1,7 @@
 
 {
-  "name": "Fojiphoto.GuessTheQuiz",
-  "short_name": "GuessTheQuiz",
+  "name": "Guess Any Thing",
+  "short_name": "Guess Any Thing",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#000000",
