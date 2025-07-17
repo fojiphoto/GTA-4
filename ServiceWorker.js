@@ -1,5 +1,5 @@
 
-const CACHE_NAME = 'GuessTheQuiz';
+const CACHE_NAME = 'Guess Any Thing';
 const urlsToCache = [
     '/',
     '/index.html',
